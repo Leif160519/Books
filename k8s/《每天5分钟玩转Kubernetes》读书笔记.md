@@ -1,7 +1,7 @@
 ![]()
 ![image.png](https://img.hacpai.com/file/2019/09/image-32973ad6.png)
 
-下载链接：https://leif.fun/downloads/books/每天5分钟玩转Kubernetes.pdf
+下载链接：https://github.icu/downloads/books/每天5分钟玩转Kubernetes.pdf
 
 百度云：链接:[https://pan.baidu.com/s/1eUJzQVGFMXuMXM3SwGjcFw](https://pan.baidu.com/s/1eUJzQVGFMXuMXM3SwGjcFw) 密码:47bp
 # 2019年09月24日

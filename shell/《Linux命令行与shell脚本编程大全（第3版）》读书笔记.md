@@ -1,7 +1,7 @@
 ![]()
 ![image.png](https://img.hacpai.com/file/2019/09/image-7a90b8b8.png)
 
-下载链接：https://leif.fun/downloads/books/Linux命令行与shell脚本编程大全.第3版.pdf
+下载链接：https://github.icu/downloads/books/Linux命令行与shell脚本编程大全.第3版.pdf
 
 百度云：链接:[https://pan.baidu.com/s/1bV1S6Rb7A9han78-Y2j-PA](https://pan.baidu.com/s/1bV1S6Rb7A9han78-Y2j-PA) 密码:82v1
 # 2019年09月19日

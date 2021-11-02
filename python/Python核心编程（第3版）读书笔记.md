@@ -1,7 +1,7 @@
 ![]()
 ![image.png](https://img.hacpai.com/file/2019/10/image-0e051650.png)
 
-下载链接：https://leif.fun/downloads/books/Python核心编程（第3版）PDF高清晰完整中文版.pdf
+下载链接：https://github.icu/downloads/books/Python核心编程（第3版）PDF高清晰完整中文版.pdf
 
 百度云：链接:https://pan.baidu.com/s/1L3ij8eefhZW0XqnRSvztQA  密码:ypyh
 
